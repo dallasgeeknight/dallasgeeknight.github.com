@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Dallas Geek Night</title>
+ <link href="http://dallasgeeknight.com/atom.xml" rel="self"/>
+ <link href="http://dallasgeeknight.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://dallasgeeknight.com/</id>
+ <author>
+   <name>many or few, never owed so much</name>
+   <email>many@dallasgeeknight.com</email>
+ </author>
+
+ {% for post in site.categories.blog %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://dallasgeeknight.github.com{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://dallasgeeknight.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+ 
+</feed>

@@ -1,8 +1,8 @@
 ---
 layout: extrapage
-title: Location of Geek Night 
+title: Location of Dallas Geek Night 
 ---
 
 h1. Regular Locations 
 
-The regular location is ThoughtWorks' office in North Dallas. Specifically, that is at 15455 Dallas Parkway, Dallas, TX 75001, on the sixth floor.  Here's a "map of the location": http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=15455+Dallas+Pkwy,+Dallas,+TX+75001&sll=32.893426,-96.679687&sspn=0.364388,0.681152&ie=UTF8&hq=&hnear=15455+Dallas+Pkwy,+Dallas,+Texas+75001&ll=32.958878,-96.82163&spn=0.011379,0.021286&z=16
+The regular location is ThoughtWorks' office in North Dallas. Specifically, that is at 15455 Dallas Parkway, Dallas, TX 75001, on the sixth floor.  Here's a "Google map of the location": http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=15455+Dallas+Pkwy,+Dallas,+TX+75001&sll=32.893426,-96.679687&sspn=0.364388,0.681152&ie=UTF8&hq=&hnear=15455+Dallas+Pkwy,+Dallas,+Texas+75001&ll=32.958878,-96.82163&spn=0.011379,0.021286&z=16

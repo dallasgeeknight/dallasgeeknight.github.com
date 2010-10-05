@@ -11,7 +11,7 @@ ThoughtWorks pays for pizza and nibbles, and sodas. See "location":location.html
 
 <br><br>
 
-h1 Regular projects
+h1. Regular projects
 
 <br><br>
 

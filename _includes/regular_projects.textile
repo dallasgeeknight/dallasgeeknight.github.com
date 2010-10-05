@@ -1,3 +1,7 @@
+---
+layout: dgn_include_
+---
+
 "Updatecontrols":http://updatecontrols.codeplex.com and "Correspondence":http://correspondence.codeplex.com
 
 Michael Perry has been working on these for some years, and further improves them at GeekNight now.  C# for the .Net platform.

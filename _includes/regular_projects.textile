@@ -1,1 +1,9 @@
-dsf
+"Updatecontrols":http://updatecontrols.codeplex.com and "Correspondence":http://correspondence.codeplex.com
+
+Michael Perry has been working on these for some years, and further improves them at GeekNight now.  C# for the .Net platform.
+
+"SimpleParticles":http://github.com/BillSchofield/simpleParticles is a particle framework for iPhone/iPad games.  Bill Schofield started this Objective-C project at Geek Night in Dallas and has been pushing it ever since.
+
+"Compalgo":http://github.com/yujunliang/Compalgo Yujun Liang has a Google-Collection like way of composing algorithms in Java, and has been pushing it forward at Geek Night. Most recently he and his pair have integrated JBehave 3.0.
+
+"JProxyGen":http://github.com/facetnated/JProxyGen Richard Jensen pushes this code generator technology for Java.

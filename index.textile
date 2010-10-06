@@ -9,6 +9,10 @@ ThoughtWorks pays for pizza and nibbles, and sodas. See "location":location.html
 
 Roll up at 5:40pm or later, maybe with your own laptop if you have one. We generally carry on to 9:30pm.
 
+Click on "future":future.html for what we're doing next.  If you want to modify the pages before the event, the workflow is:
+1) Make a fork of the "dallasgeeknight":http://github.com/dallasgeeknight/dallasgeeknight.github.com Github project.
+2) Push your local changes to your fork, issue a pull request to us.
+
 h1. Regular projects
 
 "Updatecontrols":http://updatecontrols.codeplex.com and "Correspondence":http://correspondence.codeplex.com

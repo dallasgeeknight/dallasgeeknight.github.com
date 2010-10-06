@@ -5,15 +5,9 @@ title: Dallas Geek Night
 
 Come and work on an Open Source project with friends and strangers.  There are plenty of languages, technologies and to choose from that are regularly developed at Geek Night.  Maybe you have an open source project that you're looking for some help with.  Typically we are going to want to do this with pair programming and in a test driven development (TDD) style.
 
-<br><br>
-
 ThoughtWorks pays for pizza and nibbles, and sodas. See "location":location.html for getting to the venue in Addison, North Dallas. 
 
-<br><br>
-
 h1. Regular projects
-
-<br><br>
 
 "Updatecontrols":http://updatecontrols.codeplex.com and "Correspondence":http://correspondence.codeplex.com
 

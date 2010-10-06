@@ -14,13 +14,13 @@ layout: nil
    <email>many@dallasgeeknight.com</email>
  </author>
 
- {% for post in site.categories.blog %}
+ {% for prev in site.categories.previous %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://dallasgeeknight.github.com{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://dallasgeeknight.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>{{ prev.title }}</title>
+   <link href="http://dallasgeeknight.github.com{{ prev.url }}"/>
+   <updated>{{ prev.date | date_to_xmlschema }}</updated>
+   <id>http://dallasgeeknight.com{{ prev.id }}</id>
+   <content type="html">{{ prev.content | xml_escape }}</content>
  </entry>
  {% endfor %}
 

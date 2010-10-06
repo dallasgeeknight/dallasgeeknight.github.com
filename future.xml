@@ -1,0 +1,30 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Dallas Geek Night Future events</title>
+ <link href="http://dallasgeeknight.com/future.xml" rel="self"/>
+ <link href="http://dallasgeeknight.com/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://dallasgeeknight.com/</id>
+ <author>
+   <name>ThoughtWorkers organizing Dallas Geek Night</name>
+   <email>dallasgeeknight@thoughtworks.com</email>
+ </author>
+
+ {% for future in site.categories.future %}
+ <entry>
+   <title>{{ future.title }}</title>
+   <link href="http://dallasgeeknight.github.com{{ future.url }}"/>
+   <updated>{{ future.date | date_to_xmlschema }}</updated>
+   <id>http://dallasgeeknight.com{{ future.id }}</id>
+   <content type="html">{{ future.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+ 
+</feed>
+
+

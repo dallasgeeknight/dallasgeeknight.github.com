@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Dallas Geek Night - Previous
+title: Dallas Geek Night - Future
 ---
 
 <div id="home">
-  <h1>Previous events</h1>
+  <h1>Future events</h1>
   <ul class="posts">
-    {% for post in site.categories.previous %}
+    {% for post in site.categories.future %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

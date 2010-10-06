@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Dallas Geek Night</title>
- <link href="http://dallasgeeknight.com/atom.xml" rel="self"/>
+ <title>Dallas Geek Night Previous events</title>
+ <link href="http://dallasgeeknight.com/previous.xml" rel="self"/>
  <link href="http://dallasgeeknight.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://dallasgeeknight.com/</id>
  <author>
-   <name>many or few, never owed so much</name>
-   <email>many@dallasgeeknight.com</email>
+   <name>ThoughtWorkers organizing Dallas Geek Night</name>
+   <email>dallasgeeknight@thoughtworks.com</email>
  </author>
 
  {% for prev in site.categories.previous %}

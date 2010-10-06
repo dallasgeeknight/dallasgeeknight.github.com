@@ -5,5 +5,5 @@ title: About Geek Night
 
 h1. About 
 
-Geek Nights have been run by ThoughtWorks in a number of cities worldwide for many years now. "London":londongeeknights.wetpaint.com/ and "Manchester":manchestergeeknights.wetpaint.com/ are just two.
+Geek Nights have been run by ThoughtWorks in a number of cities worldwide for many years now. "London":http://londongeeknights.wetpaint.com/ and "Manchester":http://manchestergeeknights.wetpaint.com/ are just two.
 

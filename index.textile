@@ -7,6 +7,8 @@ Come and work on an Open Source project with friends and strangers.  There are p
 
 ThoughtWorks pays for pizza and nibbles, and sodas. See "location":location.html for getting to the venue in Addison, North Dallas. 
 
+Roll up at 5:40pm or later, maybe with your own laptop if you have one. We generally carry on to 9:30pm.
+
 h1. Regular projects
 
 "Updatecontrols":http://updatecontrols.codeplex.com and "Correspondence":http://correspondence.codeplex.com

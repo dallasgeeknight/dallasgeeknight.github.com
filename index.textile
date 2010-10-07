@@ -23,4 +23,4 @@ h1. Regular projects
 
 "JProxyGen":http://github.com/facetnated/JProxyGen Richard Jensen pushes this code generator technology for Java.
 
-"Fermata":http://github.com/scsibug/fermata is a webapp for testing applications that send email.  Messages are stored and can be inspected, stored, linked into your bug-tracker.  Greg Heartsfield started this, and has been working with Dhruv Chandna on it for several GeekNights.
+"Fermata":http://github.com/scsibug/fermata is a Scala/Lift webapp for testing applications that send email.  Messages are stored and can be inspected, stored, linked into your bug-tracker.  Greg Heartsfield started this, and has been working with Dhruv Chandna on it for several GeekNights.

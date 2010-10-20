@@ -1,0 +1,24 @@
+---
+layout: post
+title: Oct 20, 2010.
+---
+
+h1. {{ page.title }}
+
+p(meta). 20 October 2010
+
+Tonight one or more teams will be working on JBehave and its new Groovy language capability.
+
+Also, Richard will be pushing ahead with JProxy's early stages.  We have a Maven tool-chain, and a few initial test cases (as well as proofs of concepts, and goals), but there is much to do to get this to an 'beta' state.
+
+Bill will be working on his particle engine again. He'll accept as many pairs as are willing to throw themselves into Objective-C and XCode (maybe download xcode before you come).
+
+Android may figure again this week for the small "Sold/Tangent" app we're building.
+
+Cosmin will be doing *something* with Clojure with whoever wants to pair with him.
+
+Yujun will ..
+
+h3. Blah
+
+blah

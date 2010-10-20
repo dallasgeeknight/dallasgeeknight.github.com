@@ -17,7 +17,7 @@ layout: nil
  {% for prev in site.categories.previous %}
  <entry>
    <title>{{ prev.title }}</title>
-   <link href="http://dallasgeeknight.github.com{{ prev.url }}"/>
+   <link href="http://dallasgeeknight.com{{ prev.url }}"/>
    <updated>{{ prev.date | date_to_xmlschema }}</updated>
    <id>http://dallasgeeknight.com{{ prev.id }}</id>
    <content type="html">{{ prev.content | xml_escape }}</content>

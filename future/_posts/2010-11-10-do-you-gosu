@@ -1,0 +1,19 @@
+---
+layout: post
+title: Nov 10, 2010.
+---
+
+h1. {{ page.title }}
+
+p(meta). 10 November 2010
+
+Richard (pining for his .Net days) will be looking at "Gosu":http://gosu-lang.com.
+
+Bill 
+
+Srini
+
+Cosmin will be doing *something* with Clojure with whoever wants to pair with him.
+
+Yujun will be working on Compalgo again. Pairing and BDD are the way ahead for this.
+
